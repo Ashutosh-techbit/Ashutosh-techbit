@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-techbit&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-techbit" /> </p>
 
-- 🌱 I’m currently learning **ADVANCE DSA , MERN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Website Development , Logic building**
 
 - 📫 How to reach me **bansalashutosh77@gmail.com**
 
-- ⚡ Fun fact **Bugs are in relationship with Semicolons**
+- ⚡Random.. ** I told my computer I needed a break, and now it won’t stop sending me KitKat ads! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
