@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bansalashutosh77@gmail.com**
 
-- ⚡Random.. **I told my computer I needed a break, and now it won’t stop sending me KitKat ads!**
+- ⚡Random.. **Instead of butterfly , I found too many Bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
