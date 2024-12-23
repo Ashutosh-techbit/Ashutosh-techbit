@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-techbit&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-techbit" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **all about this machine**
 
 - 💬 Ask me about **Website Development , Logic building**
 
