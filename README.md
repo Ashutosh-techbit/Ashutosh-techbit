@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Website Development , Logic building**
 
-- 📫 How to reach me **bansalashutosh77@gmail.com**
+- 📫 How to reach me **bansalashutosh77@gmail.com** or **bashu2305@gmail.com**
 
 - ⚡Random.. **Instead of butterfly , I found too many Bugs!**
 
