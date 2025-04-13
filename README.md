@@ -15,7 +15,8 @@
 - 💌 You can reach me at: *bansalashutosh77@gmail.com* or *bashu2305@gmail.com*  
 - 🧠 Currently expanding my knowledge across the MERN stack and computer science fundamentals.
 
-> 🧠 *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+> 🧠 *"The function of good software is to make the complex appear to be simple."
+— Grady Booch*
 
 ---
 
