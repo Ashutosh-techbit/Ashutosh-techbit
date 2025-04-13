@@ -1,30 +1,46 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Bansal</h1>
-<h3 align="center">A passionate Web Developer and Logic Enthusiast</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"> -->
-<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-techbit&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-techbit" /> </p>
+<h3 align="center">A passionate Web Developer & Problem Solver</h3>
 
-- 🌱 I’m currently learning **all about this machine**
-
-- 💬 Ask me about **Website Development , Logic building**
-
-- 📫 How to reach me **bansalashutosh77@gmail.com** or **bashu2305@gmail.com**
-
-- ⚡Random.. **Instead of butterfly , I found too many Bugs!**
-
-<h3 align="centre">Connect with me:</h3>
-<p align="centre">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-bansal23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-bansal23/" height="30" width="40" /></a>
+<p align="center">
+  <b>Curious</b> • <b>Driven</b> • <b>Analytical</b>
 </p>
-<hr>
 
-<h3 align="centre">🛠️ Tech Stack :</h3>
-<p align="centre"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<hr>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-techbit&show_icons=true&locale=en&layout=compact" alt="ashutosh-techbit" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-techbit&show_icons=true&locale=en" alt="ashutosh-techbit" /></p>
+- 🌐 I'm a Web Developer who enjoys building efficient and scalable applications.  
+- 🧩 I love solving problems — be it logic puzzles, DSA challenges, or system designs.  
+- 💌 You can reach me at: *bansalashutosh77@gmail.com* or *bashu2305@gmail.com*  
+- 🧠 Currently expanding my knowledge across the MERN stack and computer science fundamentals.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-techbit&" alt="ashutosh-techbit" /></p>
+> 🧠 *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+
+---
+
+<div align="center">
+  <h3>🛠 Tech Stack</h3>
+ <p align="centre"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🔥 GitHub Streak Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-techbit&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🔴 Git Commit Activity</h3>
+  <img src="https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 Profile Views</h3>
+  <img src="https://profile-counter.glitch.me/Ashutosh-techbit/count.svg?" />
+</div>
