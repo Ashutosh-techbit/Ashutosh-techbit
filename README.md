@@ -1,17 +1,8 @@
-<h1 align="center">🧙‍♂️ Ashutosh Bansal — Code Conjurer of the Digital Realm</h1>
+<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
+<h1 align="center">🧙‍♂Hey Everyone 👋, I'm Ashutosh Bansal</h1>
 
 <h3 align="center">Full-Stack Sorcerer | Bug Slayer | DSA Dungeon Master</h3>
-
-<p align="center">
-  <em>“Summoning code from the void and vanquishing bugs with every keystroke.”</em>
-</p>
-
 ---
-
-A passionate developer with a solid command over data structures and algorithms, complemented by hands-on expertise in the MERN stack. I specialize in crafting scalable full-stack applications while demonstrating strong problem-solving abilities through consistent performance on coding platforms like LeetCode and GeeksForGeeks. My focus lies in writing optimized, maintainable code that transforms real-world problems into intuitive digital solutions.
-
----
-
 ### 🧑‍💻 About Me
 
 - 🌐 I'm a Web Developer who enjoys building efficient and scalable applications.  
@@ -24,7 +15,7 @@ A passionate developer with a solid command over data structures and algorithms,
 ---
 
 <div align="center">
-  <h3>🔗 Portals to My Realm</h3>
+  <h3> 🌐 Socials:</h3>
   <a href="https://www.linkedin.com/in/ashutosh-bansal23/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -63,6 +54,7 @@ A passionate developer with a solid command over data structures and algorithms,
 
 <div align="center">
   <h4>🐍 Contribution Snake</h4>
+  ![](https://github-contributor-stats.vercel.app/api?username=Ashutosh-techbit&limit=5&theme=onedark&combine_all_yearly_contributions=true)
   <img src="https://github.com/Ashutosh-techbit/Ashutosh-techbit/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
