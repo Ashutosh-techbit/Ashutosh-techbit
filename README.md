@@ -7,20 +7,19 @@
 </p>
 
 ---
-### 🌍 About Me
-
 A passionate developer with a solid command over data structures and algorithms, complemented by hands-on expertise in the MERN stack. I specialize in crafting scalable full-stack applications while demonstrating strong problem-solving abilities through consistent performance on coding platforms like LeetCode and GeeksForGeeks. My focus lies in writing optimized, maintainable code that transforms real-world problems into intuitive digital solutions.
 
 ---
 
-### 🧠 Ancient Scrolls & Codex
 
-- 🔮 Currently training in the MERN and building scrolls that render lightning-fast UIs.
-- 🧩 I love solving problems — be it logic puzzles, DSA challenges, or system designs.
--💌 You can reach me at: bansalashutosh77@gmail.com | bashu2305@gmail.com
-- 🛡️ Favorite incantation:  
-  > *"Programs must be written for humans to read, and only incidentally for machines to execute."*  
-  — Harold Abelson
+### 🧑‍💻 About Me
+
+- 🌐 I'm a Web Developer who enjoys building efficient and scalable applications.  
+- 🧩 I love solving problems — be it logic puzzles, DSA challenges, or system designs.  
+- 💌 You can reach me at: *bansalashutosh77@gmail.com* or *bashu2305@gmail.com*  
+- 🧠 Currently expanding my knowledge across the MERN stack and computer science fundamentals.
+
+> 🧠 *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
 
 ---
 
