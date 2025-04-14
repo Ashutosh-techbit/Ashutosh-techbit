@@ -7,10 +7,10 @@
 </p>
 
 ---
+
 A passionate developer with a solid command over data structures and algorithms, complemented by hands-on expertise in the MERN stack. I specialize in crafting scalable full-stack applications while demonstrating strong problem-solving abilities through consistent performance on coding platforms like LeetCode and GeeksForGeeks. My focus lies in writing optimized, maintainable code that transforms real-world problems into intuitive digital solutions.
 
 ---
-
 
 ### 🧑‍💻 About Me
 
@@ -33,6 +33,7 @@ A passionate developer with a solid command over data structures and algorithms,
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40"/>
@@ -55,7 +56,7 @@ A passionate developer with a solid command over data structures and algorithms,
 
 <div align="center">
   <h4>🔥 Continuous Casting Streak</h4>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-techbit&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-techbit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -64,7 +65,6 @@ A passionate developer with a solid command over data structures and algorithms,
   <h4>🐍 Contribution Snake</h4>
   <img src="https://github.com/Ashutosh-techbit/Ashutosh-techbit/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
 
 ---
 
