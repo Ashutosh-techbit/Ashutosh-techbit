@@ -66,8 +66,9 @@ In a world made of ones and zeroes, a curious coder emerged from the mystical ci
 
 <div align="center">
   <h4>🐍 Contribution Snake</h4>
-  <img src="https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Ashutosh-techbit/Ashutosh-techbit/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
 
 ---
 
