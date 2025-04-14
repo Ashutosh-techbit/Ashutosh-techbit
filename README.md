@@ -3,6 +3,7 @@
 
 <h3 align="center">Full-Stack Sorcerer | Bug Slayer | DSA Dungeon Master</h3>
 ---
+---
 ### 🧑‍💻 About Me
 
 - 🌐 I'm a Web Developer who enjoys building efficient and scalable applications.  
