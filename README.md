@@ -7,19 +7,17 @@
 </p>
 
 ---
+### 🌍 About Me
 
-### 🌌 Origin Lore
-
-In a world made of ones and zeroes, a curious coder emerged from the mystical city of Agra — a wanderer between stacks and syntax, taming dragons called *Errors* and capturing stars called *Projects*. Armed with the **MERN spellbook**, a **keyboard-staff**, and a head full of dreams, he wandered into the realm of GitHub to leave behind magical traces of innovation and logic.
+A passionate developer with a solid command over data structures and algorithms, complemented by hands-on expertise in the MERN stack. I specialize in crafting scalable full-stack applications while demonstrating strong problem-solving abilities through consistent performance on coding platforms like LeetCode and GeeksForGeeks. My focus lies in writing optimized, maintainable code that transforms real-world problems into intuitive digital solutions.
 
 ---
 
 ### 🧠 Ancient Scrolls & Codex
 
-- 🔮 Currently training in the MERN spell arts and building scrolls that render lightning-fast UIs.
-- 🧩 Solving puzzles from the Grand Dungeon of DSA.
-- 💌 Summon me via magical pigeon: bansalashutosh77@gmail.com | bashu2305@gmail.com
-- ⚡ Side quests: AI audio replacement, Hackathon raids, Open Source Guilds (like GSoC).
+- 🔮 Currently training in the MERN and building scrolls that render lightning-fast UIs.
+- 🧩 I love solving problems — be it logic puzzles, DSA challenges, or system designs.
+-💌 You can reach me at: bansalashutosh77@gmail.com | bashu2305@gmail.com
 - 🛡️ Favorite incantation:  
   > *"Programs must be written for humans to read, and only incidentally for machines to execute."*  
   — Harold Abelson
@@ -35,8 +33,7 @@ In a world made of ones and zeroes, a curious coder emerged from the mystical ci
 
 ---
 
-### 🧪 Spellbook of Technologies
-
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40"/>
@@ -55,7 +52,7 @@ In a world made of ones and zeroes, a curious coder emerged from the mystical ci
 
 ---
 
-### 🧙‍♂️ Arcane Artifacts (GitHub Magic)
+### 🔥 GitHub Streak Stats
 
 <div align="center">
   <h4>🔥 Continuous Casting Streak</h4>
@@ -73,20 +70,18 @@ In a world made of ones and zeroes, a curious coder emerged from the mystical ci
 ---
 
 <div align="center">
-  <h4>👁‍🗨 Seers Watching My Scrolls</h4>
+  <h4>📊 Profile Views</h4>
   <img src="https://profile-counter.glitch.me/Ashutosh-techbit/count.svg?" />
 </div>
 
 ---
 
-### 🌠 Quest Log Highlights
+### 🚀 Highlights
 
-- 🏆 Winner - Intra-college Coding Warlock Challenge ⚔️
-- 👨‍💻 Selected for **Smart India Hackathon (SIH)** – Team Leader
-- 🌐 Deployed portals:  
-   → [Newsport](https://newsport.vercel.app/) – Real-time news from multiverse timelines  
-   → [Wanderlust](https://wanderlust-hotel-clone.com) – Stay booking for intergalactic travelers  
-   → More spells on the way...
+- 🌐 Deployed Projects:
+  - [Newsport](https://newsport.vercel.app/) — Real-time News App
+  - [Wanderlust](https://wanderlust-hotel-clone.com) — Hotel Booking Platform
+- 🧩 Solved 250+ problems on coding platforms like LeetCode and GeeksForGeeks
 
 ---
 
