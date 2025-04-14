@@ -12,6 +12,7 @@
 
 > 🧠 *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
 
+---
 
 <div align="center">
   <h3> 🌐 Socials:</h3>
@@ -20,7 +21,7 @@
   </a>
 </div>
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -40,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
 </p>
 
-
+---
 
 ### 🔥 GitHub Streak Stats
 
@@ -49,7 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-techbit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-
+---
 
 <div align="center">
   <h4>🐍 Contribution Snake</h4>
@@ -57,13 +58,14 @@
   <img src="https://github.com/Ashutosh-techbit/Ashutosh-techbit/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-
+---
 
 <div align="center">
   <h4>📊 Profile Views</h4>
   <img src="https://profile-counter.glitch.me/Ashutosh-techbit/count.svg?" />
 </div>
 
+---
 
 ### 🚀 Highlights
 
@@ -72,7 +74,7 @@
   - [Wanderlust](https://wanderlust-hotel-clone.com) — Hotel Booking Platform
 - 🧩 Solved 250+ problems on coding platforms like LeetCode and GeeksForGeeks
 
-
+---
 
 ### 🧬 DNA of a Dev
 
