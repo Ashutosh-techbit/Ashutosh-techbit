@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
 <h1 align="center">🧙‍♂Hey Everyone 👋, I'm Ashutosh Bansal</h1>
 
-<h3 align="center">Full-Stack Sorcerer | Bug Slayer | DSA Dungeon Master</h3>
+<h3 align="center">Curious • Self-Motivated • Problem-Solver • Quick Learner • Detail-Oriented</h3>
 
 ### 🧑‍💻 About Me
 
