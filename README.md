@@ -60,13 +60,6 @@
 
 ---
 
-<div align="center">
-  <h4>📊 Profile Views</h4>
-  <img src="https://profile-counter.glitch.me/Ashutosh-techbit/count.svg?" />
-</div>
-
----
-
 ### 🚀 Highlights
 
 - 🌐 Deployed Projects:
@@ -85,3 +78,10 @@ Ashutosh:
   tabsOpen: 87
   sleepCycle: 🥴
   favoriteDebugMethod: "console.log('🧠 why tho')"
+
+```
+<div align="center">
+  <h4>📊 Profile Views</h4>
+  <img src="https://profile-counter.glitch.me/Ashutosh-techbit/count.svg?" />
+</div>
+
