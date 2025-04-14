@@ -2,10 +2,8 @@
 <h1 align="center">🧙‍♂Hey Everyone 👋, I'm Ashutosh Bansal</h1>
 
 <h3 align="center">Full-Stack Sorcerer | Bug Slayer | DSA Dungeon Master</h3>
-
 ---
-
-
+---
 ### 🧑‍💻 About Me
 
 - 🌐 I'm a Web Developer who enjoys building efficient and scalable applications.  
@@ -57,7 +55,7 @@
 
 <div align="center">
   <h4>🐍 Contribution Snake</h4>
-  ![](https://github-contributor-stats.vercel.app/api?username=Ashutosh-techbit&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
   <img src="https://github.com/Ashutosh-techbit/Ashutosh-techbit/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
