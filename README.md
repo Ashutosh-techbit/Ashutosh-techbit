@@ -44,10 +44,9 @@
 ---
 
 ### 🔥 GitHub Streak Stats
-
 <div align="center">
-  <h4>🔥 Continuous Casting Streak</h4>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-techbit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <h3>🔥 GitHub Streak Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-techbit&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
