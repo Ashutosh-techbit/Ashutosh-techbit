@@ -43,7 +43,6 @@
 
 ---
 
-### 🔥 GitHub Streak Stats
 <div align="center">
   <h3>🔥 GitHub Streak Stats</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-techbit&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
