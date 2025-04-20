@@ -63,8 +63,9 @@
 ### 🚀 Highlights
 
 - 🌐 Deployed Projects:
-  - [Newsport](https://newsport.vercel.app/) — Real-time News App
   - [Wanderlust](https://wanderlust-ugot.onrender.com/) — Hotel Booking Platform
+  - [Newsport](https://newsport.vercel.app/) — Real-time News App
+
 - 🧩 Solved 250+ problems on coding platforms like LeetCode and GeeksForGeeks
 
 ---
