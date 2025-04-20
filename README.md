@@ -64,7 +64,7 @@
 
 - 🌐 Deployed Projects:
   - [Newsport](https://newsport.vercel.app/) — Real-time News App
-  - [Wanderlust](https://wanderlust-hotel-clone.com) — Hotel Booking Platform
+  - [Wanderlust](https://wanderlust-ugot.onrender.com/) — Hotel Booking Platform
 - 🧩 Solved 250+ problems on coding platforms like LeetCode and GeeksForGeeks
 
 ---
