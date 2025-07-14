@@ -1,5 +1,9 @@
-<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
 <h1 align="center">🧙‍♂Hey Everyone 👋, I'm Ashutosh Bansal</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Backend%20Developer;MERN%20Stack%20Engineer;AI%20Explorer;Always%20learning%20new%20tech!&center=true&width=500&height=45">
+</div>
+
 
 <h3 align="center">Curious • Self-Motivated • Problem-Solver • Quick Learner • Detail-Oriented</h3>
 
