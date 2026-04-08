@@ -11,7 +11,7 @@
 
 - 🌐 I'm a Web Developer who enjoys building efficient and scalable applications.  
 - 🧩 I love solving problems — be it logic puzzles, DSA challenges, or system designs.  
-- 💌 You can reach me at: *bansalashutosh77@gmail.com* or *bashu2305@gmail.com*  
+- 💌 You can reach me at: *ashutoshb.dev@gmail.com* or *bashu2305@gmail.com*  
 - 🧠 Currently expanding my knowledge across the MERN stack and computer science fundamentals.
 
 > 🧠 *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
